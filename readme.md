@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<h3 align='center'>mesh</h3>
+<h3 align='center'>base</h3>
 <p align='center'>
   Link Text Framework
 </p>
@@ -15,6 +15,32 @@
 <br/>
 <br/>
 <br/>
+
+### Welcome
+
+This is the main repo you will download to compile code.
+
+### Forever Undefined
+
+<em>Way back in a simpler time<br/>
+The great mother showed me<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight<br/>
+
+Way deep in the great tree<br/>
+The base link urges me<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight<br/>
+
+Way beyond our thoughts<br/>
+The stream flows forth<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight<br/>
+
+Way more undefined<br/>
+The base link springs forth<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight</em>
 
 ### License
 
